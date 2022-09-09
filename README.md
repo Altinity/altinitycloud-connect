@@ -1,8 +1,8 @@
 # altinitycloud-connect
 
 `altinitycloud-connect` is a tunneling daemon for Altinity.Cloud; part of 
-Altinity.Cloud Anywhere.  
-It enables management of ClickHouse clusters (running inside your Kubernetes clusters,
+[Altinity.Cloud Anywhere](https://altinity.com/altinity-cloud-anywhere/).  
+It enables management of [ClickHouse](https://github.com/ClickHouse/ClickHouse) clusters (running inside your Kubernetes clusters,
 wherever they may be) through Altinity.Cloud. 
 
 At present, this repository is used only to distribute pre-built `altinitycloud-connect` binaries.  
@@ -29,3 +29,8 @@ altinitycloud-connect kubernetes | kubectl apply -f -
 ### Terraform
 
 See [altinity/terraform-altinitycloud-connect](https://github.com/altinity/terraform-altinitycloud-connect).
+
+## Legal
+
+All code, unless specified otherwise, is licensed under the [Apache-2.0](LICENSE) license.  
+Copyright (c) 2022 Altinity, Inc.
