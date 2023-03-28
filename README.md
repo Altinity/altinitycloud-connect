@@ -6,7 +6,7 @@ It enables management of [ClickHouse](https://github.com/ClickHouse/ClickHouse) 
 wherever they may be) through Altinity.Cloud. 
 
 At present, this repository is used only to distribute pre-built `altinitycloud-connect` binaries.  
-The source code is planned to be released once we're out of Beta. 
+The source code is planned to be open in the future. 
 
 ## Usage
 
