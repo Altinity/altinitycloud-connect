@@ -33,4 +33,4 @@ altinitycloud-connect is proprietary software. This repository is used solely to
 
 Copyright (c) Altinity, Inc. All rights reserved.
 
-Use of the altinitycloud-connect binary is governed by the [Altinity Cloud Connect Binary License](LICENSE). You may download, install, and use the software solely in connection with Altinity Cloud services.
+Use of the altinitycloud-connect binary is governed by the [Altinity Cloud Connect Binary License](LICENSE). You may download, install, and use the software solely in connection with Altinity.Cloud services.
