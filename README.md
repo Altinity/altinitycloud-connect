@@ -5,9 +5,6 @@
 It enables management of [ClickHouse](https://github.com/ClickHouse/ClickHouse) clusters (running inside your Kubernetes clusters,
 wherever they may be) through Altinity.Cloud. 
 
-At present, this repository is used only to distribute pre-built `altinitycloud-connect` binaries.  
-The source code is planned to be open in the future. 
-
 ## Usage
 
 ### CLI
@@ -32,5 +29,8 @@ See [altinity/terraform-altinitycloud-connect](https://github.com/altinity/terra
 
 ## Legal
 
-All code, unless specified otherwise, is licensed under the [Apache-2.0](LICENSE) license.  
-Copyright (c) 2022 Altinity, Inc.
+altinitycloud-connect is proprietary software. This repository is used solely to distribute pre-built binaries. Source code is not included in this repository.
+
+Copyright (c) Altinity, Inc. All rights reserved.
+
+Use of the altinitycloud-connect binary is governed by the [Altinity Cloud Connect Binary License](LICENSE). You may download, install, and use the software solely in connection with Altinity Cloud services.
