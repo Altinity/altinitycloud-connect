@@ -31,6 +31,8 @@ See [altinity/terraform-altinitycloud-connect](https://github.com/altinity/terra
 
 altinitycloud-connect is proprietary software. This repository is used solely to distribute pre-built binaries. Source code is not included in this repository.
 
-Copyright (c) Altinity, Inc. All rights reserved.
+Copyright (c) 2022-2026 Altinity, Inc. All rights reserved.
 
 Use of the altinitycloud-connect binary is governed by the [Altinity Cloud Connect Binary License](LICENSE). You may download, install, and use the software solely in connection with Altinity.Cloud services.
+
+Third-party components included in the binary remain subject to their respective licenses. See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
